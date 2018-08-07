@@ -1,0 +1,2 @@
+webpackJsonp([25],{WOql:function(e,t){},x0vE:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var i={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("h1",[this._v("首页")])])}]};var r=n("VU/8")({name:"index"},i,!1,function(e){n("WOql")},"data-v-73d8e2bc",null);t.default=r.exports}});
+//# sourceMappingURL=25.6c03f0fdd8b60c17968c.js.map
